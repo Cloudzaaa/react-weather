@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import WeatherDisplay from './WeatherDisplay';
 import 'bootswatch/dist/solar/bootstrap.css';
 import { Navbar, Nav, Container, Row, Col } from "react-bootstrap";
