@@ -7,4 +7,6 @@ https://cloudzaaa.github.io/react-weather/
 ### Used technologies:
 - react-create-app
 - react
+- bootstrap
+- bootswatch
 
